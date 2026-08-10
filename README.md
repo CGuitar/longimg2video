@@ -39,7 +39,7 @@ pip install -r requirements.txt
 pyinstaller --onefile --icon=icon.ico longimg2video.py
 ```
 
-4. 下载 `ffmpeg.exe` 并放在exe文件同目录下，或者确保系统PATH中有ffmpeg（下载地址：https://ffmpeg.org/download.html）
+4. 下载 `ffmpeg.exe` 并放在exe文件同目录下，或者确保系统PATH中有ffmpeg（[官网下载地址](https://ffmpeg.org/download.html)）
 
 5. 右键longimg2video.exe创建快捷方式（可选）
 
